@@ -1,4 +1,4 @@
-# WeirdoCloudJS
+# WeirdoCloudExamples
 Examples and libraries for cloud computing (JavaScript)
 
 © 2019 Daniel Norton / https://danielnorton.com/
